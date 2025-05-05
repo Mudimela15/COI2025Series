@@ -15,7 +15,7 @@ import static com.qa.coi.constants.AppConstants.*;
 
 public class LoginPageTest extends BaseTest{
 	
-	@Description("checking open cart login page title...")
+	@Description("checking open cart login page title")
 	@Severity(SeverityLevel.MINOR)
 	@Owner("Naveen")
 	@Test(description = "checking login title")
